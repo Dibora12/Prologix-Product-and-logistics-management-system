@@ -54,7 +54,7 @@ Built with modern web technologies, Prologix provides a **dashboard for admins**
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/prologix.git
+   git clone https://github.com/Dibora12/prologix.git
    cd prologix
 
 
