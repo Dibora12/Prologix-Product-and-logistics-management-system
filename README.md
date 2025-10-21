@@ -1,43 +1,50 @@
-# 🚚 Prologix – Product and Logistics Management System 
-  
-## 🌍 Overview
-**Prologix** is a full-featured **Product and Logistics Management System** designed to simplify and automate the process of managing goods, tracking shipments, and monitoring deliveries in real-time.  
-It combines **inventory management**, **route tracking**, and **delivery analytics** to help businesses optimize operations, reduce delays, and ensure transparency across the supply chain.
+# 🚚 **Prologix – Product and Logistics Management System**
 
-Built with modern web technologies, Prologix provides a **dashboard for admins**, **live tracking for drivers**, and **real-time logistics visualization** using interactive maps.
+## 🌍 **Overview**
+
+**Prologix** is an intelligent, full-featured **Product and Logistics Management System** built to streamline and automate logistics operations, from inventory tracking to real-time delivery monitoring.  
+
+It provides businesses with **a centralized dashboard** to manage products, monitor shipments, analyze delivery performance, and ensure transparency across the entire supply chain.  
+
+With **real-time route visualization**, **inventory analytics**, and **automated reporting**, Prologix bridges the gap between logistics coordination and operational efficiency — empowering organizations to make faster, data-driven decisions.
 
 ---
 
-## ✨ Key Features
+## ✨ **Key Features**
 
-### 🏢 Product Management
-- Add, edit, and delete product details.
-- Manage stock levels, categories, and warehouse assignments.
-- Generate automatic product IDs and batch numbers.
+### 🏢 Product & Inventory Management
+- Add, edit, and delete product details effortlessly.  
+- Track stock levels and categorize products by warehouse or location.  
+- Generate automatic product IDs and batch numbers for organization.  
+- Receive alerts for low inventory levels or stockouts.  
 
 ### 🚛 Logistics & Delivery Management
-- Assign drivers and vehicles to specific delivery routes.
-- Monitor shipment status (Pending, In Transit, Delivered).
-- View estimated delivery times and route progress.
+- Assign drivers and vehicles to specific routes with ease.  
+- Track shipment status: *Pending*, *In Transit*, or *Delivered*.  
+- View estimated delivery times and optimize delivery schedules.  
+- Get delivery summaries with timestamps and driver details.  
 
 ### 🗺️ Real-Time Map Tracking
-- Integrated with **Leaflet.js** for dynamic truck movement visualization.
-- Displays live routes from source to destination.
-- Supports real-time location updates and route animation.
+- Integrated with **Leaflet.js** for dynamic route visualization.  
+- Live truck movement tracking with GPS coordinates.  
+- Displays the full route from origin to destination.  
+- Real-time updates and route animation for accurate delivery insights.  
 
 ### 📊 Analytics & Reports
-- Monthly logistics and delivery performance reports.
-- Inventory turnover and warehouse efficiency statistics.
-- Export data in PDF or Excel format.
+- Comprehensive dashboards with logistics performance metrics.  
+- Monthly and weekly reports for shipments, deliveries, and warehouse activity.  
+- Inventory turnover ratios and delivery success rates.  
+- Export reports in **PDF** or **Excel** format for presentations or audits.  
 
 ### 🔐 Authentication & Security
-- Secure login system for Admins, Managers, and Drivers.
-- Role-based access control.
-- JWT-based authentication for backend API security.
+- Secure user login system with role-based access control.  
+- Supports Admin, Manager, and Driver roles.  
+- JWT-based authentication and protected backend APIs.  
+- Data validation and error handling for safe, consistent operations.  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 **Tech Stack**
 
 | Category | Technology |
 |-----------|-------------|
@@ -46,15 +53,19 @@ Built with modern web technologies, Prologix provides a **dashboard for admins**
 | **Database** | MongoDB (Mongoose ORM) |
 | **Maps / Geolocation** | Leaflet.js, OpenStreetMap API |
 | **Authentication** | JWT (JSON Web Tokens) |
-| **Deployment** | Render / Vercel / MongoDB Atlas |
+| **Deployment** | Render, Vercel, MongoDB Atlas |
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ **Installation & Setup**
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Dibora12/prologix.git
    cd prologix
+##  **Install Dependencies**
+npm install
 
-
+##  ** 👩‍💻Developed by**
+Dibora Shibeshi
+Software Developer | directED Full stack Track
