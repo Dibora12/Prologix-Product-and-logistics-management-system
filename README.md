@@ -6,7 +6,7 @@
 
 It provides businesses with **a centralized dashboard** to manage products, monitor shipments, analyze delivery performance, and ensure transparency across the entire supply chain.  
 
-With **real-time route visualization**, **inventory analytics**, and **automated reporting**, Prologix bridges the gap between logistics coordination and operational efficiency — empowering organizations to make faster, data-driven decisions.
+With **real-time route visualization**, **inventory analytics**, and **automated reporting**, Prologix bridges the gap between logistics coordination and operational efficiency empowering organizations to make faster, data-driven decisions.
 
 ---
 
