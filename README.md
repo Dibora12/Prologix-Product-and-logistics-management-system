@@ -1,4 +1,4 @@
-# 🚚 Prologix – Product and Logistics Management System
+# 🚚 Prologix – Product and Logistics Management System 
 
 ## 🌍 Overview
 **Prologix** is a full-featured **Product and Logistics Management System** designed to simplify and automate the process of managing goods, tracking shipments, and monitoring deliveries in real-time.  
