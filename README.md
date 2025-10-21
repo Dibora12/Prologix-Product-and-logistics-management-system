@@ -61,11 +61,11 @@ With **real-time route visualization**, **inventory analytics**, and **automated
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Dibora12/prologix.git
-   cd prologix
+   git clone https://github.com/Dibora12/Prologix-Product-and-logistics-management-system.git
+   cd prologix-main
 ##  **Install Dependencies**
 npm install
 
-##  ** 👩‍💻Developed by**
+##   👩‍💻Developed by
 Dibora Shibeshi
 Software Developer | directED Full stack Track
