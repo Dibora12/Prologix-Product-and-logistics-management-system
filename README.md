@@ -66,6 +66,12 @@ With **real-time route visualization**, **inventory analytics**, and **automated
 ##  **Install Dependencies**
 npm install
 
+##  **Screenshots**
+<img width="1440" height="860" alt="Screenshot 2025-10-21 102215" src="https://github.com/user-attachments/assets/d7f71a57-fff1-4baf-a586-e3818a09529c" />
+
+<img width="1440" height="860" alt="Screenshot 2025-10-21 101401" src="https://github.com/user-attachments/assets/a4490ce0-f907-4b45-a0cd-7ab6106bb007" />
+
+
 ##   👩‍💻Developed by
 Dibora Shibeshi
 
